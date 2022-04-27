@@ -1,6 +1,7 @@
 # Intro-to-backend
 
 <h2>Web App Aplication - Calculator</h2>
+
 1. Create a new file called bmiCalculator.html inside the Calculator folder
 
 2. Add the HTML boilerplate and set the page title to BMI Calculator
