@@ -9,8 +9,8 @@ Change Directory to this new folder
 
 Inside the Calculator folder, create a new file called calculator.js
 
-Set up a new NPM package
-
+Set up a new NPM package (npm init)
+<code>npm init</code>
 Open the project folder in VSC 
 
 Using NPM install the express module
