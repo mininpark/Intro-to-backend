@@ -1,7 +1,27 @@
 # Intro-to-backend
-Node.js
 
-<h2>Guild Line</h2>
+<h2>Web App Aplication - Calculator</h2>
+1. Create a new file called bmiCalculator.html inside the Calculator folder
+
+2. Add the HTML boilerplate and set the page title to BMI Calculator
+
+3. Add an HTML form, this form will make a post request to our server at the route /bmicalculator. 
+The form will have 2 inputs, weight and height with placeholder text that tell the user what they should type into which text box. 
+
+4. Add a button which says “Caculate BMI”
+
+5. Add the get and post methods for the /bmicalculator route into the same server.js file we've been using
+
+6. Use sendFile() to send the bmiCalculator.html page as a response inside the get method.
+
+6. Add an h1 that says BMI Calculator
+
+7. Inside server.js , create 2 variables, one for weight and one for height. 
+
+8. Use the BMI calculator code that wrote previously 
+e.g., "Your BMI is n" where n is equal to the calculated BMI based on their weight and height inputs.
+
+<h2>Guild Line for setting Node JS and Express JS</h2>
 
 - Make a new folder called Calculator on your Desktop
 - Change Directory to this new folder
@@ -45,3 +65,4 @@ console.log("Server started on Port 3000");
 - Run server with nodemon `$nodemon project.js`
 Run server with nodemon
 <code>nodemon project.js</code>
+
