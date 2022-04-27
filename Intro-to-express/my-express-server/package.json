@@ -1,0 +1,20 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "Intro to Express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mininpark/Intro-to-backend.git"
+  },
+  "author": "Mina Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mininpark/Intro-to-backend/issues"
+  },
+  "homepage": "https://github.com/mininpark/Intro-to-backend#readme"
+}
