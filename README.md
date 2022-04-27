@@ -35,8 +35,8 @@ app.get("/", (req, res) => {
 app.listen(3000, function(){
   console.log("Server started on Port 3000");
 });
-
 </code>
+
 Create a root route get method with app.get()
 
 Send the words Hello World from the root route as the response
