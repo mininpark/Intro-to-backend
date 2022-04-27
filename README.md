@@ -1,7 +1,7 @@
 # Intro-to-backend
 Node.js
 
-<h1>Guild Line</h1>
+<h2>Guild Line</h2>
 
 Make a new folder called Calculator on your Desktop
 
@@ -28,7 +28,7 @@ const app = express();
 //what should happend when brower get touched with my server
 //request and respond(what I will get rendered on my browser)
 app.get("/", (req, res) => {
-  res.send("<h1>Hello, world</h1>");
+  res.send("Hello, world");
 });
 
 //server tuend to 3000 port
